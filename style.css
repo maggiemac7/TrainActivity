@@ -1,0 +1,21 @@
+body{
+   text-align: center;
+   border: 4px, black;
+   margin: 5%;
+   padding: 5%;
+   font-family:'Lato', sans-serif;
+
+
+}
+thead{
+
+}
+
+.train-container{
+margin: 1%;
+padding: 1%;
+width: 100%;
+border: 5px, #000000;
+
+
+}
